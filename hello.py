@@ -1,1 +1,1 @@
-hello
+hello exit=1
